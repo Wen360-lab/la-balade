@@ -233,7 +233,7 @@
 
 
 
-// Épisode 6: Quel jour sommes-nous ?
+// Épisode 7: Quel jour sommes-nous ?
 
 import { calculerMoyenne } from "./fonctions.js";
 
